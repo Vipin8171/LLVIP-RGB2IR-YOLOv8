@@ -1,0 +1,5 @@
+train: C:/Users/tvipi/Downloads/yolo_finetune/images/train
+val: C:/Users/tvipi/Downloads/yolo_finetune/images/val
+
+nc: 1
+names: ["person"]
